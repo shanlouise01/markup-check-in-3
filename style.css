@@ -1,2 +1,27 @@
 /*style sheet for the resume*/
-.secondlist {color: blue;}
+
+.firstlist {margin-left: 5%;}
+.secondlist {margin-left: 10%;}
+
+h1 {color:lightblue;}
+h3 {color: lightblue}
+h2 {color: lightcoral}
+li {color:lemonchiffon}
+.firstlist {color: lightgreen}
+.secondlist {color: lightgreen}
+
+h1 {background-color:midnightblue ;}
+h3 {background-color:midnightblue;}
+h2 {background-color:brown;}
+li {background-color:lightsalmon;}
+.firstlist {background-color:darkolivegreen;}
+.secondlist {background-color:darkolivegreen;}
+
+h1 {font-family:cursive;}
+h2 {font-family:cursive;}
+
+li {list-style-type:square;}
+
+h1 {text-decoration:underline;}
+h1 {text-align:center;}
+h3 {text-align:center;}
